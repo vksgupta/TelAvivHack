@@ -1,0 +1,13 @@
+1) 'Hello' Web App
+
+2) Add Login
+
+3) Add Graph API Calls
+
+4) Get User Likes
+
+5) App Requests and Publish Story
+
+6) Authenticated Referrals
+
+7) Like, Comment Plugins
